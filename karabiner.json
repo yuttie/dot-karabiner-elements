@@ -61,7 +61,7 @@
                                     }
                                 ],
                                 "from": {
-                                    "key_code": "d",
+                                    "key_code": "h",
                                     "modifiers": {
                                         "mandatory": [
                                             "control"
@@ -124,7 +124,7 @@
                                     }
                                 ],
                                 "from": {
-                                    "key_code": "h",
+                                    "key_code": "j",
                                     "modifiers": {
                                         "mandatory": [
                                             "control"
@@ -187,7 +187,7 @@
                                     }
                                 ],
                                 "from": {
-                                    "key_code": "i",
+                                    "key_code": "g",
                                     "modifiers": {
                                         "mandatory": [
                                             "control"
@@ -216,34 +216,7 @@
                                     }
                                 ],
                                 "from": {
-                                    "key_code": "open_bracket",
-                                    "modifiers": {
-                                        "mandatory": [
-                                            "control"
-                                        ],
-                                        "optional": [
-                                            "caps_lock"
-                                        ]
-                                    }
-                                },
-                                "to": [
-                                    {
-                                        "key_code": "escape"
-                                    }
-                                ],
-                                "type": "basic"
-                            },
-                            {
-                                "conditions": [
-                                    {
-                                        "keyboard_types": [
-                                            "jis"
-                                        ],
-                                        "type": "keyboard_type_if"
-                                    }
-                                ],
-                                "from": {
-                                    "key_code": "close_bracket",
+                                    "key_code": "hyphen",
                                     "modifiers": {
                                         "mandatory": [
                                             "control"
@@ -326,7 +299,7 @@
                                     }
                                 ],
                                 "from": {
-                                    "key_code": "b",
+                                    "key_code": "n",
                                     "modifiers": {
                                         "mandatory": [
                                             "control"
@@ -390,7 +363,7 @@
                                     }
                                 ],
                                 "from": {
-                                    "key_code": "f",
+                                    "key_code": "y",
                                     "modifiers": {
                                         "mandatory": [
                                             "control"
@@ -454,7 +427,7 @@
                                     }
                                 ],
                                 "from": {
-                                    "key_code": "n",
+                                    "key_code": "l",
                                     "modifiers": {
                                         "mandatory": [
                                             "control"
@@ -518,7 +491,7 @@
                                     }
                                 ],
                                 "from": {
-                                    "key_code": "p",
+                                    "key_code": "r",
                                     "modifiers": {
                                         "mandatory": [
                                             "control"
@@ -582,7 +555,7 @@
                                     }
                                 ],
                                 "from": {
-                                    "key_code": "v",
+                                    "key_code": "period",
                                     "modifiers": {
                                         "mandatory": [
                                             "control"
@@ -642,7 +615,7 @@
                                     }
                                 ],
                                 "from": {
-                                    "key_code": "e",
+                                    "key_code": "d",
                                     "modifiers": {
                                         "mandatory": [
                                             "control"
